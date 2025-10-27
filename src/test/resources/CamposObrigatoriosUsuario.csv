@@ -1,0 +1,5 @@
+Id,Nome,Email,Senha,NomeCampoEmTeste
+NULL,'leoncio',123456789012,id
+2,NULL,123456789012,nome 
+3,'leoncio',NULL,senha
+3,'leoncio',,senha
